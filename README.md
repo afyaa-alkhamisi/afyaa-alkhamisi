@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @afyaa-alkhamisi
+- 🌱 I’m currently learning data analysis and web delevopment.
+- 📫 How to reach me by sending an email to `af.alkhamissi@gmail.com`
