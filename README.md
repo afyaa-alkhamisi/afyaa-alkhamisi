@@ -29,13 +29,13 @@ Here are some highlights from my GitHub:
 
 ### 🔍 Data Analysis
 - **[investigate‑a‑dataset‑tmdb‑movies](https://github.com/afyaa-alkhamisi/investigate-a-dataset-tmdb-movies)**  
-  Analysis of the TMDb movies dataset for trends and insights. :contentReference[oaicite:6]{index=6}
+  Analysis of the TMDb movies dataset for trends and insights.
 
 - **[analyze‑a‑b‑test‑results](https://github.com/afyaa-alkhamisi/analyze-a-b-test-results)**  
-  Worked through an A/B test dataset to help a company make data‑driven decisions. :contentReference[oaicite:7]{index=7}
+  Worked through an A/B test dataset to help a company make data‑driven decisions.
 
 - **[wrangle‑and‑analyze‑data](https://github.com/afyaa-alkhamisi/wrangle-and-analyze-data)**  
-  Cleaned and visualized WeRateDogs Twitter dataset to extract insights. :contentReference[oaicite:8]{index=8}
+  Cleaned and visualized WeRateDogs Twitter dataset to extract insights.
 
 *(More projects coming soon…)*
 
